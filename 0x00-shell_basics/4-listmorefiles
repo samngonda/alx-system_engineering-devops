@@ -1,1 +1,4 @@
 ls -ls
+[master 3fa43e6]  Hidden files
+ 1 file changed, 1 insertion(+)
+ create mode 100755 0x00-shell_basics/4-listmorefiles
