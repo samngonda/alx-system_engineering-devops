@@ -1,1 +1,1 @@
-containing a description of the repository
+Display the contents list of your current directory
