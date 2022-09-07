@@ -1,1 +1,1 @@
-Global variables
+Shell, init files, variables and expansions
